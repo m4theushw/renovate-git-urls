@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@material-ui/monorepo": "https://github.com/mui-org/material-ui#master",
-    "lodash": "^4.17.20"
+    "lodash": "4.17.21"
   }
 }
